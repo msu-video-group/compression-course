@@ -1,0 +1,1 @@
+# CS MSU Compression Course
